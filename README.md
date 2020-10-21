@@ -10,7 +10,7 @@ My Github stats
 Contact
 -------
 
-<a href="https://nghminh163.ml>
+<a href="https://nghminh163.ml">
   <img width="20" align="left"
 		 alt="My Facebook file"
 		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg">
