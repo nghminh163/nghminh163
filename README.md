@@ -10,12 +10,12 @@ My Github stats
 Contact
 -------
 
-<a href="https://nghminh163.ml">
+<!-- <a href="https://nghminh163.ml">
   <img width="20" align="left"
 		 alt="My Facebook file"
 		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg">
 
-</a>
+</a> -->
 
 
 <a href="https://facebook.com/nhm163">
@@ -41,4 +41,10 @@ Contact
 	<img width="20" align="left"
 		 alt="My Outlook"
 		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg">
+</a> 
+
+<a href="https://www.linkedin.com/in/nghminh163/">
+	<img width="20" align="left"
+		 alt="My Linkedin"
+		 src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg">
 </a> 
