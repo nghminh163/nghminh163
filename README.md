@@ -4,7 +4,7 @@ Nguyen Hoang Minh
 My Github stats
 ---------------
 <div align='center'>
-	<img src='https://github-readme-stats.vercel.app/api?username=nghminh163&?count_private=true&show_icons=true&theme=graywhite' />
+	<img src='https://github-readme-stats-pi-beige-70.vercel.app/api?username=nghminh163&?count_private=true&show_icons=true&theme=graywhite' />
 </div>
 
 Contact
