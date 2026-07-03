@@ -4,7 +4,7 @@ Nguyen Hoang Minh
 My Github stats
 ---------------
 <div align='center'>
-	<img src='https://github-readme-stats-pi-beige-70.vercel.app/api?username=nghminh163&?count_private=true&show_icons=true&theme=graywhite' />
+	<img src='https://statistic.minh.pw' />
 </div>
 
 Contact
@@ -16,14 +16,6 @@ Contact
 		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg">
 
 </a> -->
-
-
-<a href="https://facebook.com/nhm163">
-	<img width="20" align="left"
-		 alt="My Facebook file"
-		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg">
-</a>
-
 
 <a href="https://facebook.com/nhm163">
 	<img width="20" align="left"
